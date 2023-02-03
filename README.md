@@ -4,11 +4,6 @@
 <p align="center">
   Task Management App
 </p>
-<p align="center">
-  <a href="https://flutter.dev/"><img alt="Platform" src="https://img.shields.io/badge/platform-Flutter-blue.svg"></a>
-  <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/dart-2.12.2-blue.svg"></a>
-  <a href="https://github.com/Adithya-13/Flutask/"><img alt="Star" src="https://img.shields.io/github/stars/Adithya-13/Flutask"></a>
-</p>
 
 <p align="center">
   <img src="demo/thumbnail.png"/>
@@ -42,16 +37,6 @@ Clone or Download and Open it into Android Studio, VSCode, or Other IDE / Text E
 ```
     https://github.com/Adithya-13/Flutask.git
 ```  
-
-## Demo
-
-|Getting Started|Add Task|Update Task|Delete Task|
-|--|--|--|--|
-|![](demo/getting_started.gif?raw=true)|![](demo/add_task.gif?raw=true)|![](demo/update_task.gif?raw=true)|![](demo/delete_task.gif?raw=true)|
-
-|Search Task|Detail Category|Calendar Task|
-|--|--|--|
-|![](demo/search_task.gif?raw=true)|![](demo/detail_category.gif?raw=true)|![](demo/calendar_task.gif?raw=true)|
 
 ## Features
 - On Going Tasks
