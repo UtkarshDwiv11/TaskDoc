@@ -6,14 +6,9 @@
 </p>
 
 ## Demo of the App- 
-
 |Getting Started|Add Task|Update Task|Delete Task|
 |--|--|--|--|
-|![](demo/getting_started.gif?raw=true)|![](demo/add_task.gif?raw=true)|![](demo/update_task.gif?raw=true)|![](demo/delete_task.gif?raw=true)|
-
-|Search Task|Detail Category|Calendar Task|
-|--|--|--|
-|![](demo/search_task.gif?raw=true)|![](demo/detail_category.gif?raw=true)|![](demo/calendar_task.gif?raw=true)|
+|![getting_started](https://user-images.githubusercontent.com/80638586/216663556-c0567026-8e91-4f9b-9264-bd75938519a5.gif)
 
 ## Introduction
 This project contains about task Management with CRUD such as Add Task, Update Task, Calendar Task, and other. You can see those in [demo file] in this app. 
