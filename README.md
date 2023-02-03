@@ -29,5 +29,5 @@ I made this Project in 2 days and it was a really good experience to create this
 - Update Tasks
 - Delete Tasks
 - set Deadline Tasks
-- And more Soon
+
 
