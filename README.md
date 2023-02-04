@@ -1,5 +1,5 @@
 <h1 align="center">
-  Flutask
+  TaskDoc
 </h1>
 <p align="center">
   Task Management App
